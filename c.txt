@@ -1,2 +1,5 @@
 creating c.txt
+<<<<<<< HEAD
 adding in local
+=======
+>>>>>>> ad8de63c06ae4a588f5065bd9ec51e04ba274ad1
